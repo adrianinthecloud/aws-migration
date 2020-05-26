@@ -1,7 +1,7 @@
 # Demos about aws migration
 
-# Create Scalable(8EB) Storage
+Create Scalable(8EB) Storage
 
-# Synchronize data using DataSync
+Synchronize data using DataSync
 
-# Database Migration Using DMS
+Database Migration Using DMS
